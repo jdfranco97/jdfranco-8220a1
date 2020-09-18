@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'djangopollsDB',
         'USER': 'postgres',
-        'PASSWORD': 'Saitek77'
+        'PASSWORD': 'Saitek77',
     }
 }
 
